@@ -1,0 +1,118 @@
+{
+  "input_video": "01_02__meeting_serious__YVGY8LOK.mp4",
+  "roi_method": "landmark",
+  "fps": 24.00000000000002,
+  "nominal_fps": 24.0,
+  "duration_seconds": 43.45833333333333,
+  "timestamp_source": "opencv_pos_msec",
+  "decoded_frames": 1044,
+  "face_frames": 1029,
+  "decoder_backend": "FFMPEG",
+  "signal_quality": {
+    "forehead_green": {
+      "spectral_concentration": 0.0426210083057049,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "forehead_pos": {
+      "spectral_concentration": 0.09742597649201734,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_left_green": {
+      "spectral_concentration": 0.04282157293608836,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_left_pos": {
+      "spectral_concentration": 0.15293088389047696,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_right_green": {
+      "spectral_concentration": 0.07770133137757876,
+      "processed_coverage": 0.6982758620689655,
+      "raw_coverage": 0.8438697318007663,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_right_pos": {
+      "spectral_concentration": 0.2102653762881883,
+      "processed_coverage": 0.6982758620689655,
+      "raw_coverage": 0.814176245210728,
+      "passes_quality_threshold": false
+    }
+  },
+  "settings": {
+    "bandpass_hz": [
+      0.7,
+      3.0
+    ],
+    "pos_window_seconds": 1.6,
+    "minimum_segment_seconds": 4.0,
+    "maximum_interpolation_gap_seconds": 0.25,
+    "minimum_spectral_concentration": 0.35,
+    "minimum_processed_coverage": 0.5,
+    "roi_box_update_weight": null,
+    "regions": {
+      "forehead": [
+        103,
+        67,
+        109,
+        10,
+        338,
+        297,
+        332,
+        333,
+        299,
+        337,
+        9,
+        108,
+        69,
+        104
+      ],
+      "cheek_image_left": [
+        116,
+        117,
+        118,
+        119,
+        100,
+        142,
+        203,
+        206,
+        216,
+        212,
+        214,
+        192,
+        215,
+        177,
+        137
+      ],
+      "cheek_image_right": [
+        345,
+        346,
+        347,
+        348,
+        329,
+        371,
+        423,
+        426,
+        436,
+        432,
+        434,
+        416,
+        435,
+        401,
+        366
+      ]
+    },
+    "landmark_model": "models\\face_landmarker.task",
+    "landmark_crop_padding_fraction": 0.25,
+    "landmark_update_weight": 0.55,
+    "maximum_normalized_shape_step": 0.035
+  },
+  "status": "low_quality"
+}

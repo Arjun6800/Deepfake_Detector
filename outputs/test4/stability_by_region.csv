@@ -1,0 +1,7 @@
+method,region,adjacent_shared_pairs,median_shared_mask_pixels,p95_box_relative_centroid_step,p95_green_level_step
+landmark-legacy,forehead,1027,760.0,0.016748867345395057,2.3617938434887207
+landmark-legacy,cheek_image_left,940,493.0,0.020311827226794508,2.6118157101716895
+landmark-legacy,cheek_image_right,717,458.5,0.0208088477468128,2.4256846260130467
+landmark,forehead,1027,759.0,0.016748867345395057,2.3184539354753437
+landmark,cheek_image_left,940,1445.0,0.016571418516099685,2.2155444343433763
+landmark,cheek_image_right,717,1333.5,0.018668660969503807,1.7209657891654815

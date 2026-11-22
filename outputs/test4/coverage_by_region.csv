@@ -1,0 +1,13 @@
+method,region,decoded_frames,valid_rgb_frames,missing_rgb_frames,fallback_frames,shared_rgb_frames,face_tracking,landmark_inference,landmark_association,empty_geometry,insufficient_mask_pixels,insufficient_exposure_valid_pixels,rectangular_pixel_failure
+rectangular,forehead,1044,1029,15,0,1029,15,0,0,0,0,0,0
+rectangular,cheek_image_left,1044,1029,15,0,945,15,0,0,0,0,0,0
+rectangular,cheek_image_right,1044,1029,15,0,728,15,0,0,0,0,0,0
+landmark-legacy,forehead,1044,1029,15,0,1029,15,0,0,0,0,0,0
+landmark-legacy,cheek_image_left,1044,945,99,0,945,15,0,0,55,29,0,0
+landmark-legacy,cheek_image_right,1044,728,316,0,728,15,0,0,249,52,0,0
+landmark,forehead,1044,1029,15,0,1029,15,0,0,0,0,0,0
+landmark,cheek_image_left,1044,1029,15,0,945,15,0,0,0,0,0,0
+landmark,cheek_image_right,1044,866,178,0,728,15,0,0,111,52,0,0
+hybrid,forehead,1044,1029,15,0,1029,15,0,0,0,0,0,0
+hybrid,cheek_image_left,1044,1029,15,0,945,15,0,0,0,0,0,0
+hybrid,cheek_image_right,1044,971,73,105,728,15,0,0,57,1,0,0

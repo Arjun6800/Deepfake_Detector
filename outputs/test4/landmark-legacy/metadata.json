@@ -1,0 +1,100 @@
+{
+  "input_video": "01_02__meeting_serious__YVGY8LOK.mp4",
+  "roi_method": "landmark-legacy",
+  "fps": 24.00000000000002,
+  "nominal_fps": 24.0,
+  "duration_seconds": 43.45833333333333,
+  "timestamp_source": "opencv_pos_msec",
+  "decoded_frames": 1044,
+  "face_frames": 1029,
+  "decoder_backend": "FFMPEG",
+  "signal_quality": {
+    "forehead_green": {
+      "spectral_concentration": 0.04178920998635136,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "forehead_pos": {
+      "spectral_concentration": 0.10030647610841253,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_left_green": {
+      "spectral_concentration": 0.038611546503380445,
+      "processed_coverage": 0.9080459770114943,
+      "raw_coverage": 0.9080459770114943,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_left_pos": {
+      "spectral_concentration": 0.17104529877830946,
+      "processed_coverage": 0.9080459770114943,
+      "raw_coverage": 0.9080459770114943,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_right_green": {
+      "spectral_concentration": 0.048758719206166104,
+      "processed_coverage": 0.5680076628352491,
+      "raw_coverage": 0.6992337164750958,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_right_pos": {
+      "spectral_concentration": 0.24356514011154673,
+      "processed_coverage": 0.5680076628352491,
+      "raw_coverage": 0.6436781609195402,
+      "passes_quality_threshold": false
+    }
+  },
+  "settings": {
+    "bandpass_hz": [
+      0.7,
+      3.0
+    ],
+    "pos_window_seconds": 1.6,
+    "minimum_segment_seconds": 4.0,
+    "maximum_interpolation_gap_seconds": 0.25,
+    "minimum_spectral_concentration": 0.35,
+    "minimum_processed_coverage": 0.5,
+    "roi_box_update_weight": null,
+    "regions": {
+      "forehead": [
+        103,
+        67,
+        109,
+        10,
+        338,
+        297,
+        332,
+        333,
+        299,
+        337,
+        9,
+        108,
+        69,
+        104
+      ],
+      "cheek_image_left": [
+        116,
+        117,
+        118,
+        101,
+        205,
+        187,
+        123
+      ],
+      "cheek_image_right": [
+        345,
+        346,
+        347,
+        330,
+        425,
+        411,
+        352
+      ]
+    },
+    "landmark_model": "models\\face_landmarker.task",
+    "landmark_crop_padding_fraction": 0.25
+  },
+  "status": "low_quality"
+}

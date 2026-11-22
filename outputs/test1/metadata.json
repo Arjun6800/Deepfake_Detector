@@ -1,0 +1,80 @@
+{
+  "input_video": "01_02__meeting_serious__YVGY8LOK.mp4",
+  "fps": 24.00000000000002,
+  "nominal_fps": 24.0,
+  "duration_seconds": 43.45833333333333,
+  "timestamp_source": "opencv_pos_msec",
+  "decoded_frames": 1044,
+  "face_frames": 1029,
+  "decoder_backend": "FFMPEG",
+  "signal_quality": {
+    "forehead_green": {
+      "spectral_concentration": 0.05963649821816463,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "forehead_pos": {
+      "spectral_concentration": 0.10134591275304022,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_left_green": {
+      "spectral_concentration": 0.042139067434173554,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_left_pos": {
+      "spectral_concentration": 0.09626865284945266,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_right_green": {
+      "spectral_concentration": 0.02737835844891149,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    },
+    "cheek_image_right_pos": {
+      "spectral_concentration": 0.18009745624767248,
+      "processed_coverage": 0.9875478927203065,
+      "raw_coverage": 0.9875478927203065,
+      "passes_quality_threshold": false
+    }
+  },
+  "settings": {
+    "bandpass_hz": [
+      0.7,
+      3.0
+    ],
+    "pos_window_seconds": 1.6,
+    "minimum_segment_seconds": 4.0,
+    "maximum_interpolation_gap_seconds": 0.25,
+    "minimum_spectral_concentration": 0.35,
+    "minimum_processed_coverage": 0.5,
+    "regions": {
+      "forehead": [
+        0.29,
+        0.15,
+        0.71,
+        0.29
+      ],
+      "cheek_image_left": [
+        0.16,
+        0.51,
+        0.37,
+        0.68
+      ],
+      "cheek_image_right": [
+        0.63,
+        0.51,
+        0.84,
+        0.68
+      ]
+    }
+  },
+  "status": "low_quality"
+}
