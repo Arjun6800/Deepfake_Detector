@@ -1,0 +1,23 @@
+{
+  "eligible_complete_families": 328,
+  "videos": 600,
+  "families": 50,
+  "seed": 480,
+  "retained_videos": 96,
+  "new_videos": 504,
+  "paths_visible": 600,
+  "prior_rgb_frames": 46640,
+  "prior_au_inference_frames": 33852,
+  "new_frames": 250276,
+  "all_frames": 296916,
+  "prior_rgb_wall_s": 1050.7398667,
+  "prior_au_wall_s": 382.4490866999995,
+  "rgb_reference_equivalent_s": 5638.399890184588,
+  "au_reference_equivalent_s": 3354.46215959521,
+  "projected_combined_stage_hours": 2.498017236049944,
+  "estimated_new_rgb_bytes": 73898153,
+  "predicted_regular_windows": 1812,
+  "predicted_windows_including_center": 2296,
+  "multiwindow_eligible_videos": 484,
+  "manifest_sha256": "e48f7d443d8fc2f833a8730fc7a6d2a1b855672cce528f70d4d71ad1135cc2a8"
+}

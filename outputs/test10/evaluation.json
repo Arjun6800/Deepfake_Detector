@@ -1,0 +1,11 @@
+{
+  "sklearn": "1.9.1",
+  "videos": 96,
+  "folds": 8,
+  "completed_runs": 34,
+  "seed": 470,
+  "decision_threshold": 0.5,
+  "video_aggregation": "mean of window scores",
+  "primary_classifier": "logistic",
+  "primary_metric": "family-mean balanced accuracy"
+}

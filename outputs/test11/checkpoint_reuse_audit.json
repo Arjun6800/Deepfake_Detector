@@ -1,0 +1,866 @@
+[
+  {
+    "video_id": "remaining:original/182.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 187840,
+    "waveform_bytes": 307309,
+    "expression_bytes": 11701
+  },
+  {
+    "video_id": "remaining:original/242.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 99697,
+    "waveform_bytes": 286509,
+    "expression_bytes": 12368
+  },
+  {
+    "video_id": "archive:Deepfakes/182_242.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 188215,
+    "waveform_bytes": 302058,
+    "expression_bytes": 11774
+  },
+  {
+    "video_id": "archive:Deepfakes/242_182.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 100610,
+    "waveform_bytes": 257736,
+    "expression_bytes": 12353
+  },
+  {
+    "video_id": "archive:Face2Face/182_242.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 102531,
+    "waveform_bytes": 307453,
+    "expression_bytes": 11720
+  },
+  {
+    "video_id": "archive:Face2Face/242_182.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 185329,
+    "waveform_bytes": 307293,
+    "expression_bytes": 11759
+  },
+  {
+    "video_id": "archive:FaceShifter/182_242.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 187852,
+    "waveform_bytes": 290026,
+    "expression_bytes": 11695
+  },
+  {
+    "video_id": "archive:FaceShifter/242_182.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 101984,
+    "waveform_bytes": 302141,
+    "expression_bytes": 11764
+  },
+  {
+    "video_id": "archive:FaceSwap/182_242.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 103218,
+    "waveform_bytes": 301565,
+    "expression_bytes": 11681
+  },
+  {
+    "video_id": "archive:FaceSwap/242_182.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 88522,
+    "waveform_bytes": 81264,
+    "expression_bytes": 12386
+  },
+  {
+    "video_id": "remaining:NeuralTextures/182_242.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 102556,
+    "waveform_bytes": 289967,
+    "expression_bytes": 11728
+  },
+  {
+    "video_id": "remaining:NeuralTextures/242_182.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 101121,
+    "waveform_bytes": 278340,
+    "expression_bytes": 12381
+  },
+  {
+    "video_id": "remaining:original/515.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 219514,
+    "waveform_bytes": 266535,
+    "expression_bytes": 11753
+  },
+  {
+    "video_id": "remaining:original/519.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 209427,
+    "waveform_bytes": 256515,
+    "expression_bytes": 11709
+  },
+  {
+    "video_id": "archive:Deepfakes/515_519.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 214733,
+    "waveform_bytes": 235875,
+    "expression_bytes": 11851
+  },
+  {
+    "video_id": "archive:Deepfakes/519_515.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 204581,
+    "waveform_bytes": 267228,
+    "expression_bytes": 11761
+  },
+  {
+    "video_id": "archive:Face2Face/515_519.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 214873,
+    "waveform_bytes": 271600,
+    "expression_bytes": 11756
+  },
+  {
+    "video_id": "archive:Face2Face/519_515.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 214568,
+    "waveform_bytes": 271613,
+    "expression_bytes": 11744
+  },
+  {
+    "video_id": "archive:FaceShifter/515_519.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 218937,
+    "waveform_bytes": 272044,
+    "expression_bytes": 11754
+  },
+  {
+    "video_id": "archive:FaceShifter/519_515.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 210929,
+    "waveform_bytes": 271837,
+    "expression_bytes": 11746
+  },
+  {
+    "video_id": "archive:FaceSwap/515_519.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 214939,
+    "waveform_bytes": 266659,
+    "expression_bytes": 11738
+  },
+  {
+    "video_id": "archive:FaceSwap/519_515.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 210352,
+    "waveform_bytes": 266383,
+    "expression_bytes": 11706
+  },
+  {
+    "video_id": "remaining:NeuralTextures/515_519.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 214782,
+    "waveform_bytes": 271905,
+    "expression_bytes": 11783
+  },
+  {
+    "video_id": "remaining:NeuralTextures/519_515.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 210122,
+    "waveform_bytes": 266613,
+    "expression_bytes": 11738
+  },
+  {
+    "video_id": "remaining:original/415.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 164364,
+    "waveform_bytes": 306576,
+    "expression_bytes": 11734
+  },
+  {
+    "video_id": "remaining:original/484.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 98505,
+    "waveform_bytes": 301583,
+    "expression_bytes": 11696
+  },
+  {
+    "video_id": "archive:Deepfakes/415_484.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 165385,
+    "waveform_bytes": 290584,
+    "expression_bytes": 11746
+  },
+  {
+    "video_id": "archive:Deepfakes/484_415.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 98128,
+    "waveform_bytes": 301956,
+    "expression_bytes": 11732
+  },
+  {
+    "video_id": "archive:Face2Face/415_484.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 96848,
+    "waveform_bytes": 291483,
+    "expression_bytes": 11693
+  },
+  {
+    "video_id": "archive:Face2Face/484_415.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 168880,
+    "waveform_bytes": 307338,
+    "expression_bytes": 11733
+  },
+  {
+    "video_id": "archive:FaceShifter/415_484.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 164942,
+    "waveform_bytes": 299864,
+    "expression_bytes": 11763
+  },
+  {
+    "video_id": "archive:FaceShifter/484_415.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 98577,
+    "waveform_bytes": 301571,
+    "expression_bytes": 11708
+  },
+  {
+    "video_id": "archive:FaceSwap/415_484.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 96288,
+    "waveform_bytes": 293677,
+    "expression_bytes": 11707
+  },
+  {
+    "video_id": "archive:FaceSwap/484_415.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 98621,
+    "waveform_bytes": 307578,
+    "expression_bytes": 11706
+  },
+  {
+    "video_id": "remaining:NeuralTextures/415_484.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 95912,
+    "waveform_bytes": 290704,
+    "expression_bytes": 11727
+  },
+  {
+    "video_id": "remaining:NeuralTextures/484_415.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 98264,
+    "waveform_bytes": 307452,
+    "expression_bytes": 11755
+  },
+  {
+    "video_id": "remaining:original/300.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 175293,
+    "waveform_bytes": 248383,
+    "expression_bytes": 11746
+  },
+  {
+    "video_id": "remaining:original/304.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 176345,
+    "waveform_bytes": 248573,
+    "expression_bytes": 11756
+  },
+  {
+    "video_id": "archive:Deepfakes/300_304.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 175185,
+    "waveform_bytes": 258374,
+    "expression_bytes": 11760
+  },
+  {
+    "video_id": "archive:Deepfakes/304_300.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 175171,
+    "waveform_bytes": 248676,
+    "expression_bytes": 11784
+  },
+  {
+    "video_id": "archive:Face2Face/300_304.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 178320,
+    "waveform_bytes": 258064,
+    "expression_bytes": 11732
+  },
+  {
+    "video_id": "archive:Face2Face/304_300.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 172624,
+    "waveform_bytes": 258315,
+    "expression_bytes": 11771
+  },
+  {
+    "video_id": "archive:FaceShifter/300_304.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 175832,
+    "waveform_bytes": 263429,
+    "expression_bytes": 11780
+  },
+  {
+    "video_id": "archive:FaceShifter/304_300.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 177848,
+    "waveform_bytes": 248698,
+    "expression_bytes": 11776
+  },
+  {
+    "video_id": "archive:FaceSwap/300_304.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 175921,
+    "waveform_bytes": 248419,
+    "expression_bytes": 11739
+  },
+  {
+    "video_id": "archive:FaceSwap/304_300.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 173333,
+    "waveform_bytes": 248782,
+    "expression_bytes": 11757
+  },
+  {
+    "video_id": "remaining:NeuralTextures/300_304.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 175100,
+    "waveform_bytes": 263245,
+    "expression_bytes": 11731
+  },
+  {
+    "video_id": "remaining:NeuralTextures/304_300.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 172426,
+    "waveform_bytes": 248588,
+    "expression_bytes": 11770
+  },
+  {
+    "video_id": "remaining:original/172.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 219088,
+    "waveform_bytes": 277505,
+    "expression_bytes": 11815
+  },
+  {
+    "video_id": "remaining:original/582.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 126921,
+    "waveform_bytes": 301012,
+    "expression_bytes": 11708
+  },
+  {
+    "video_id": "archive:Deepfakes/172_582.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 220147,
+    "waveform_bytes": 301647,
+    "expression_bytes": 11733
+  },
+  {
+    "video_id": "archive:Deepfakes/582_172.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 126566,
+    "waveform_bytes": 300988,
+    "expression_bytes": 11802
+  },
+  {
+    "video_id": "archive:Face2Face/172_582.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 128612,
+    "waveform_bytes": 307437,
+    "expression_bytes": 11744
+  },
+  {
+    "video_id": "archive:Face2Face/582_172.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 215039,
+    "waveform_bytes": 307038,
+    "expression_bytes": 11725
+  },
+  {
+    "video_id": "archive:FaceShifter/172_582.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 218365,
+    "waveform_bytes": 289574,
+    "expression_bytes": 12396
+  },
+  {
+    "video_id": "archive:FaceShifter/582_172.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 127365,
+    "waveform_bytes": 307345,
+    "expression_bytes": 11785
+  },
+  {
+    "video_id": "archive:FaceSwap/172_582.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 129226,
+    "waveform_bytes": 289869,
+    "expression_bytes": 11733
+  },
+  {
+    "video_id": "archive:FaceSwap/582_172.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 127203,
+    "waveform_bytes": 301118,
+    "expression_bytes": 11705
+  },
+  {
+    "video_id": "remaining:NeuralTextures/172_582.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 129165,
+    "waveform_bytes": 285021,
+    "expression_bytes": 12386
+  },
+  {
+    "video_id": "remaining:NeuralTextures/582_172.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 127328,
+    "waveform_bytes": 307076,
+    "expression_bytes": 11754
+  },
+  {
+    "video_id": "remaining:original/948.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 136964,
+    "waveform_bytes": 307833,
+    "expression_bytes": 11745
+  },
+  {
+    "video_id": "remaining:original/965.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 109278,
+    "waveform_bytes": 307358,
+    "expression_bytes": 11695
+  },
+  {
+    "video_id": "archive:Deepfakes/948_965.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 136665,
+    "waveform_bytes": 302052,
+    "expression_bytes": 11740
+  },
+  {
+    "video_id": "archive:Deepfakes/965_948.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 109760,
+    "waveform_bytes": 307861,
+    "expression_bytes": 11753
+  },
+  {
+    "video_id": "archive:Face2Face/948_965.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 110682,
+    "waveform_bytes": 307342,
+    "expression_bytes": 11691
+  },
+  {
+    "video_id": "archive:Face2Face/965_948.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 135083,
+    "waveform_bytes": 301542,
+    "expression_bytes": 11760
+  },
+  {
+    "video_id": "archive:FaceShifter/948_965.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 137164,
+    "waveform_bytes": 301914,
+    "expression_bytes": 11755
+  },
+  {
+    "video_id": "archive:FaceShifter/965_948.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 109731,
+    "waveform_bytes": 301571,
+    "expression_bytes": 11700
+  },
+  {
+    "video_id": "archive:FaceSwap/948_965.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 110667,
+    "waveform_bytes": 301761,
+    "expression_bytes": 11721
+  },
+  {
+    "video_id": "archive:FaceSwap/965_948.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 109529,
+    "waveform_bytes": 301827,
+    "expression_bytes": 11702
+  },
+  {
+    "video_id": "remaining:NeuralTextures/948_965.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 110679,
+    "waveform_bytes": 307791,
+    "expression_bytes": 11709
+  },
+  {
+    "video_id": "remaining:NeuralTextures/965_948.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 108986,
+    "waveform_bytes": 307224,
+    "expression_bytes": 11783
+  },
+  {
+    "video_id": "remaining:original/382.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 91440,
+    "waveform_bytes": 263236,
+    "expression_bytes": 11718
+  },
+  {
+    "video_id": "remaining:original/409.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 104369,
+    "waveform_bytes": 258395,
+    "expression_bytes": 11670
+  },
+  {
+    "video_id": "archive:Deepfakes/382_409.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 91542,
+    "waveform_bytes": 258137,
+    "expression_bytes": 11769
+  },
+  {
+    "video_id": "archive:Deepfakes/409_382.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 103362,
+    "waveform_bytes": 263173,
+    "expression_bytes": 11717
+  },
+  {
+    "video_id": "archive:Face2Face/382_409.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 104036,
+    "waveform_bytes": 263108,
+    "expression_bytes": 11708
+  },
+  {
+    "video_id": "archive:Face2Face/409_382.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 90897,
+    "waveform_bytes": 248539,
+    "expression_bytes": 11768
+  },
+  {
+    "video_id": "archive:FaceShifter/382_409.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 91441,
+    "waveform_bytes": 263410,
+    "expression_bytes": 11772
+  },
+  {
+    "video_id": "archive:FaceShifter/409_382.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 104286,
+    "waveform_bytes": 258233,
+    "expression_bytes": 11716
+  },
+  {
+    "video_id": "archive:FaceSwap/382_409.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 92202,
+    "waveform_bytes": 248402,
+    "expression_bytes": 11759
+  },
+  {
+    "video_id": "archive:FaceSwap/409_382.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 91666,
+    "waveform_bytes": 258288,
+    "expression_bytes": 11687
+  },
+  {
+    "video_id": "remaining:NeuralTextures/382_409.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 92015,
+    "waveform_bytes": 248265,
+    "expression_bytes": 11724
+  },
+  {
+    "video_id": "remaining:NeuralTextures/409_382.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 91486,
+    "waveform_bytes": 263230,
+    "expression_bytes": 11764
+  },
+  {
+    "video_id": "remaining:original/644.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 123885,
+    "waveform_bytes": 248793,
+    "expression_bytes": 11666
+  },
+  {
+    "video_id": "remaining:original/657.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 163406,
+    "waveform_bytes": 263157,
+    "expression_bytes": 11723
+  },
+  {
+    "video_id": "archive:Deepfakes/644_657.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 124585,
+    "waveform_bytes": 248955,
+    "expression_bytes": 11737
+  },
+  {
+    "video_id": "archive:Deepfakes/657_644.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 162428,
+    "waveform_bytes": 268247,
+    "expression_bytes": 11695
+  },
+  {
+    "video_id": "archive:Face2Face/644_657.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 161114,
+    "waveform_bytes": 258592,
+    "expression_bytes": 11716
+  },
+  {
+    "video_id": "archive:Face2Face/657_644.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 124240,
+    "waveform_bytes": 263421,
+    "expression_bytes": 11688
+  },
+  {
+    "video_id": "archive:FaceShifter/644_657.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 123958,
+    "waveform_bytes": 263739,
+    "expression_bytes": 11708
+  },
+  {
+    "video_id": "archive:FaceShifter/657_644.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 163867,
+    "waveform_bytes": 258490,
+    "expression_bytes": 11754
+  },
+  {
+    "video_id": "archive:FaceSwap/644_657.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 124636,
+    "waveform_bytes": 263604,
+    "expression_bytes": 11665
+  },
+  {
+    "video_id": "archive:FaceSwap/657_644.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 125435,
+    "waveform_bytes": 258268,
+    "expression_bytes": 11723
+  },
+  {
+    "video_id": "remaining:NeuralTextures/644_657.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 123904,
+    "waveform_bytes": 258566,
+    "expression_bytes": 11741
+  },
+  {
+    "video_id": "remaining:NeuralTextures/657_644.mp4",
+    "rgb_reusable": true,
+    "centered_rppg_reusable": true,
+    "centered_expression_reusable": true,
+    "rgb_bytes": 125479,
+    "waveform_bytes": 258279,
+    "expression_bytes": 11713
+  }
+]

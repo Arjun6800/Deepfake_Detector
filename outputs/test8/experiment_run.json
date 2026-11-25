@@ -1,0 +1,8 @@
+{
+  "capture": "outputs\\test8\\training",
+  "selected": 96,
+  "scored": 96,
+  "trace_windows": 7416,
+  "detector_width": 384,
+  "minimum_concentration": 0.35
+}

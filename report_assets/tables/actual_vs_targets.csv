@@ -1,0 +1,7 @@
+﻿metric,actual,target,gap_percentage_points,videos,arm,actual_source,target_source
+accuracy,0.7747933884297521,0.9,-12.520661157024794,484,hybrid / mean_std / logistic_l2,outputs/test14/hybrid_feature_comparison.csv,deepfake_rppg/phase411a_report.py (aspirational)
+balanced_accuracy,0.7885119047619047,0.85,-6.148809523809529,484,hybrid / mean_std / logistic_l2,outputs/test14/hybrid_feature_comparison.csv,deepfake_rppg/phase411a_report.py (aspirational)
+precision,0.9504643962848297,0.95,0.04643962848297489,484,hybrid / mean_std / logistic_l2,outputs/test14/hybrid_feature_comparison.csv,deepfake_rppg/phase411a_report.py (aspirational)
+recall,0.7675,0.9,-13.250000000000007,484,hybrid / mean_std / logistic_l2,outputs/test14/hybrid_feature_comparison.csv,deepfake_rppg/phase411a_report.py (aspirational)
+f1,0.8492392807745505,0.92,-7.0760719225449575,484,hybrid / mean_std / logistic_l2,outputs/test14/hybrid_feature_comparison.csv,deepfake_rppg/phase411a_report.py (aspirational)
+roc_auc,0.8271875000000001,0.9,-7.281249999999995,484,hybrid / mean_std / logistic_l2,outputs/test14/hybrid_feature_comparison.csv,deepfake_rppg/phase411a_report.py (aspirational)

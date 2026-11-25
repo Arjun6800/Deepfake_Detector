@@ -1,0 +1,96 @@
+{"video_id": "archive:FaceShifter/108_052.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Face2Face/052_108.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceSwap/052_108.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:NeuralTextures/052_108.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceSwap/108_052.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:NeuralTextures/108_052.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:original/108.mp4", "status": "error", "error": "OSError: [Errno 22] Invalid argument"}
+{"video_id": "remaining:original/052.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Deepfakes/680_486.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Face2Face/486_680.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Deepfakes/052_108.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceShifter/486_680.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceShifter/052_108.mp4", "status": "error", "error": "SystemError: <class 'cv2.CascadeClassifier'> returned a result with an exception set"}
+{"video_id": "archive:Deepfakes/108_052.mp4", "status": "error", "error": "OSError: [WinError 1455] The paging file is too small for this operation to complete"}
+{"video_id": "archive:Face2Face/108_052.mp4", "status": "error", "error": "OSError: [WinError 1455] The paging file is too small for this operation to complete"}
+{"video_id": "archive:Face2Face/680_486.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:NeuralTextures/486_680.mp4", "status": "error", "error": "SystemError: <class 'cv2.CascadeClassifier'> returned a result with an exception set"}
+{"video_id": "remaining:NeuralTextures/680_486.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceSwap/486_680.mp4", "status": "error", "error": "SystemError: <class 'cv2.CascadeClassifier'> returned a result with an exception set"}
+{"video_id": "archive:Deepfakes/486_680.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:original/486.mp4", "status": "error", "error": "OSError: [WinError 1455] The paging file is too small for this operation to complete"}
+{"video_id": "archive:FaceSwap/680_486.mp4", "status": "error", "error": "SystemError: <class 'cv2.CascadeClassifier'> returned a result with an exception set"}
+{"video_id": "remaining:original/680.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Deepfakes/484_415.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Deepfakes/415_484.mp4", "status": "error", "error": "OSError: [WinError 1455] The paging file is too small for this operation to complete"}
+{"video_id": "archive:FaceShifter/484_415.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceSwap/484_415.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:NeuralTextures/415_484.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:NeuralTextures/484_415.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:original/415.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "remaining:original/484.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Face2Face/415_484.mp4", "status": "error", "error": "OSError: [WinError 1455] The paging file is too small for this operation to complete"}
+{"video_id": "archive:Face2Face/484_415.mp4", "status": "error", "error": "SystemError: <class 'cv2.CascadeClassifier'> returned a result with an exception set"}
+{"video_id": "archive:FaceShifter/680_486.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Deepfakes/300_304.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceShifter/415_484.mp4", "status": "error", "error": "OSError: [WinError 1450] Insufficient system resources exist to complete the requested service: 'D:\\\\Research\\\\Deepfake_using_rPPG\\\\.venv\\\\Lib\\\\site-packages\\\\matplotlib'"}
+{"video_id": "archive:FaceShifter/300_304.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceSwap/300_304.mp4", "status": "error", "error": "OSError: [Errno 22] Invalid argument: 'F:\\\\FaceForensics++\\\\archive\\\\FaceForensics++_C23\\\\FaceSwap\\\\300_304.mp4'"}
+{"video_id": "archive:FaceSwap/415_484.mp4", "status": "error", "error": "SystemError: <class 'cv2.CascadeClassifier'> returned a result with an exception set"}
+{"video_id": "remaining:NeuralTextures/300_304.mp4", "status": "error", "error": "SystemError: <class 'cv2.CascadeClassifier'> returned a result with an exception set"}
+{"video_id": "remaining:NeuralTextures/304_300.mp4", "status": "error", "error": "OSError: [WinError 1450] Insufficient system resources exist to complete the requested service"}
+{"video_id": "remaining:original/300.mp4", "status": "error", "error": "OSError: [WinError 1455] The paging file is too small for this operation to complete"}
+{"video_id": "remaining:original/304.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Deepfakes/172_582.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Deepfakes/582_172.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:FaceSwap/304_300.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Face2Face/304_300.mp4", "status": "error", "error": "NameError: name 'core' is not defined"}
+{"video_id": "archive:FaceShifter/304_300.mp4", "status": "error", "error": "MemoryError: "}
+{"video_id": "archive:Face2Face/300_304.mp4", "status": "error", "error": "error: OpenCV(5.1.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\core\\src\\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 3863040 bytes in function 'OutOfMemoryError'\n"}
+{"video_id": "archive:Face2Face/172_582.mp4", "status": "error", "error": "error: OpenCV(5.1.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\core\\src\\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 4249344 bytes in function 'OutOfMemoryError'\n"}
+{"video_id": "archive:FaceShifter/172_582.mp4", "status": "error", "error": "NameError: name 'drawing_styles' is not defined"}
+{"video_id": "remaining:NeuralTextures/172_582.mp4", "status": "error", "error": "NameError: name 'drawing_styles' is not defined"}
+{"video_id": "remaining:NeuralTextures/582_172.mp4", "status": "error", "error": "NameError: name 'drawing_styles' is not defined"}
+{"video_id": "remaining:original/172.mp4", "status": "error", "error": "NameError: name 'drawing_styles' is not defined"}
+{"video_id": "remaining:original/582.mp4", "status": "error", "error": "NameError: name 'drawing_styles' is not defined"}
+{"video_id": "archive:Face2Face/582_172.mp4", "status": "error", "error": "NameError: name 'core' is not defined"}
+{"video_id": "archive:FaceShifter/582_172.mp4", "status": "error", "error": "NameError: name 'core' is not defined"}
+{"video_id": "archive:Deepfakes/304_300.mp4", "status": "error", "error": "error: OpenCV(5.1.0) D:\\a\\opencv-python\\opencv-python\\opencv\\modules\\core\\src\\alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 4249344 bytes in function 'OutOfMemoryError'\n"}
+{"video_id": "archive:FaceSwap/172_582.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceSwap/582_172.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Deepfakes/948_965.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Deepfakes/965_948.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Face2Face/948_965.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Face2Face/965_948.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceShifter/948_965.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceShifter/965_948.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceSwap/948_965.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceSwap/965_948.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:NeuralTextures/948_965.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:NeuralTextures/965_948.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:original/948.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:original/965.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Deepfakes/382_409.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Deepfakes/409_382.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Face2Face/382_409.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Face2Face/409_382.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceShifter/382_409.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceShifter/409_382.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceSwap/382_409.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceSwap/409_382.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:NeuralTextures/382_409.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:NeuralTextures/409_382.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:original/382.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:original/409.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Deepfakes/644_657.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Deepfakes/657_644.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Face2Face/644_657.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:Face2Face/657_644.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceShifter/644_657.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceShifter/657_644.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceSwap/644_657.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "archive:FaceSwap/657_644.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:NeuralTextures/644_657.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:NeuralTextures/657_644.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:original/644.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}
+{"video_id": "remaining:original/657.mp4", "status": "error", "error": "A process in the process pool was terminated abruptly while the future was running or pending."}

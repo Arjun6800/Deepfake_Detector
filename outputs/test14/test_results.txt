@@ -1,0 +1,90 @@
+﻿Phase 4 regression suite (39 tests)
+test_checkpoint_resume_and_invalidate (test_phase410.Evaluation.test_checkpoint_resume_and_invalidate) ... ok
+test_nested_isolation_and_determinism (test_phase410.Evaluation.test_nested_isolation_and_determinism) ... ok
+test_alignment_and_collisions (test_phase410.Features.test_alignment_and_collisions) ... ok
+test_cross_modal_alignment_and_insufficient_joint_support 
+(test_phase410.Features.test_cross_modal_alignment_and_insufficient_joint_support) ... ok
+test_features_on_known_period (test_phase410.Features.test_features_on_known_period) ... ok
+test_no_fabricated_observations (test_phase410.Features.test_no_fabricated_observations) ... ok
+test_synthetic_signal_and_nuisance (test_phase410.Features.test_synthetic_signal_and_nuisance) ... ok
+test_all_missing_and_constant_inputs (test_phase411a.Phase411ATests.test_all_missing_and_constant_inputs) ... ok
+test_checkpoint_version_and_shape (test_phase411a.Phase411ATests.test_checkpoint_version_and_shape) ... ok
+test_determinism_and_outer_training_isolation 
+(test_phase411a.Phase411ATests.test_determinism_and_outer_training_isolation) ... ok
+test_feature_alignment_and_missing_window_aggregation 
+(test_phase411a.Phase411ATests.test_feature_alignment_and_missing_window_aggregation) ... ok
+test_modality_scaling_changes_relative_penalty 
+(test_phase411a.Phase411ATests.test_modality_scaling_changes_relative_penalty) ... ok
+test_report_outputs_with_synthetic_folds (test_phase411a.Phase411ATests.test_report_outputs_with_synthetic_folds) ... 
+ok
+test_shortlisted_estimators_and_window_permutation 
+(test_phase411a.Phase411ATests.test_shortlisted_estimators_and_window_permutation) ... ok
+test_training_only_constant_redundancy_and_missingness 
+(test_phase411a.Phase411ATests.test_training_only_constant_redundancy_and_missingness) ... ok
+test_decoder_positions_and_window_must_match_exactly 
+(test_phase47.FusionIntegrityTests.test_decoder_positions_and_window_must_match_exactly) ... ok
+test_identity_mismatch_and_duplicate_observations_fail 
+(test_phase47.FusionIntegrityTests.test_identity_mismatch_and_duplicate_observations_fail) ... ok
+test_invalid_names_and_infinities_fail_but_missing_survives 
+(test_phase47.FusionIntegrityTests.test_invalid_names_and_infinities_fail_but_missing_survives) ... ok
+test_source_identifiers_cannot_cross_families 
+(test_phase47.FusionIntegrityTests.test_source_identifiers_cannot_cross_families) ... ok
+test_imputation_and_column_selection_use_training_rows_only 
+(test_phase47.GroupedClassificationTests.test_imputation_and_column_selection_use_training_rows_only) ... ok
+test_related_observations_share_heldout_fold 
+(test_phase47.GroupedClassificationTests.test_related_observations_share_heldout_fold) ... ok
+test_video_aggregation_uses_mean_and_refuses_mixed_folds 
+(test_phase47.GroupedClassificationTests.test_video_aggregation_uses_mean_and_refuses_mixed_folds) ... ok
+test_family_interval_is_degenerate_for_equal_changes 
+(test_phase48_pipeline.ClassificationTests.test_family_interval_is_degenerate_for_equal_changes) ... ok
+test_source_family_assignment_does_not_split_related_clips 
+(test_phase48_pipeline.ClassificationTests.test_source_family_assignment_does_not_split_related_clips) ... ok
+test_temporal_aggregation_and_missingness 
+(test_phase48_pipeline.ClassificationTests.test_temporal_aggregation_and_missingness) ... ok
+test_video_scores_collapse_multiple_windows 
+(test_phase48_pipeline.ClassificationTests.test_video_scores_collapse_multiple_windows) ... ok
+test_center_and_regular_windows_deduplicate 
+(test_phase48_pipeline.ExtractionTests.test_center_and_regular_windows_deduplicate) ... ok
+test_disk_guard_blocks_writes_below_reserve 
+(test_phase48_pipeline.ExtractionTests.test_disk_guard_blocks_writes_below_reserve) ... ok
+test_failed_checkpoint_write_preserves_previous_commit 
+(test_phase48_pipeline.ExtractionTests.test_failed_checkpoint_write_preserves_previous_commit) ... ok
+test_schema_compatible_synthetic_features_and_missing_values 
+(test_phase48_pipeline.ExtractionTests.test_schema_compatible_synthetic_features_and_missing_values) ... ok
+test_center_window_estimate_counts_duplicate_only_once 
+(test_phase48_plan.Phase48PlanTests.test_center_window_estimate_counts_duplicate_only_once) ... ok
+test_missing_direction_and_short_video_disqualify_whole_family 
+(test_phase48_plan.Phase48PlanTests.test_missing_direction_and_short_video_disqualify_whole_family) ... ok
+test_retains_previous_complete_families_and_samples_training_only 
+(test_phase48_plan.Phase48PlanTests.test_retains_previous_complete_families_and_samples_training_only) ... ok
+test_fusion_can_ignore_rppg_and_metrics_use_decisions 
+(test_phase49.Phase49Tests.test_fusion_can_ignore_rppg_and_metrics_use_decisions) ... ok
+test_oof_rejects_outer_held_index (test_phase49.Phase49Tests.test_oof_rejects_outer_held_index) ... ok
+test_outer_holdout_perturbation_cannot_change_training_settings 
+(test_phase49.Phase49Tests.test_outer_holdout_perturbation_cannot_change_training_settings) ... ok
+test_phase48_checkpoint_cohort_and_representations 
+(test_phase49.Phase49Tests.test_phase48_checkpoint_cohort_and_representations) ... ok
+test_phase48_reported_metrics_against_predictions 
+(test_phase49.Phase49Tests.test_phase48_reported_metrics_against_predictions) ... ok
+test_resume_and_evaluation_artifacts (test_phase49.Phase49Tests.test_resume_and_evaluation_artifacts) ... ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 239.385s
+
+OK
+Evaluated 20 predictions from 1 experiments.
+test_all_missing_and_constant_inputs (test_phase411a.Phase411ATests.test_all_missing_and_constant_inputs) ... ok
+test_checkpoint_version_and_shape (test_phase411a.Phase411ATests.test_checkpoint_version_and_shape) ... ok
+test_determinism_and_outer_training_isolation (test_phase411a.Phase411ATests.test_determinism_and_outer_training_isolation) ... ok
+test_feature_alignment_and_missing_window_aggregation (test_phase411a.Phase411ATests.test_feature_alignment_and_missing_window_aggregation) ... ok
+test_modality_scaling_changes_relative_penalty (test_phase411a.Phase411ATests.test_modality_scaling_changes_relative_penalty) ... ok
+test_report_outputs_with_synthetic_folds (test_phase411a.Phase411ATests.test_report_outputs_with_synthetic_folds) ... ok
+test_shortlisted_estimators_and_window_permutation (test_phase411a.Phase411ATests.test_shortlisted_estimators_and_window_permutation) ... ok
+test_training_only_constant_redundancy_and_missingness (test_phase411a.Phase411ATests.test_training_only_constant_redundancy_and_missingness) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 9.429s
+
+OK
+
+Checkpoint smoke: PASS. Two videos from different outer folds reproduced the stored Phase 4.10 enhanced temporal summaries and reloaded from the Phase 4.11A cache.

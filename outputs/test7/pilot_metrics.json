@@ -1,0 +1,61 @@
+{
+  "attempted": 30,
+  "status": {
+    "complete": 30
+  },
+  "success_percent": 100.0,
+  "windows": 90,
+  "wall_seconds": 487.02397799999744,
+  "workers": 4,
+  "seconds_per_video": {
+    "min": 26.735603699999047,
+    "p25": 34.27538577500309,
+    "median": 47.08007610000277,
+    "p75": 69.37998597500155,
+    "max": 122.68314190000092,
+    "mean": 59.08520590333331
+  },
+  "pilot_checkpoint_bytes": 418833,
+  "expression_frame_coverage_per_video": {
+    "min": 0.0,
+    "p25": 0.9906055900621118,
+    "median": 1.0,
+    "p75": 1.0,
+    "max": 1.0
+  },
+  "expression_frame_coverage_weighted": 0.8457304066607032,
+  "quality_gates": {
+    "min_concentration": 0.35,
+    "min_processed_coverage": 0.5,
+    "min_pulse_seconds": 6.0
+  },
+  "rppg_quality_checks": 540,
+  "rppg_quality_passes": 6,
+  "rppg_concentration_unavailable": 122,
+  "rppg_concentration_quantiles": {
+    "min": 0.008409855793063392,
+    "p25": 0.07278272837698549,
+    "median": 0.1185152282126317,
+    "p75": 0.18728815579511104,
+    "max": 0.4264736540564899
+  },
+  "missing_feature_percent": {
+    "rppg": 18.502415458937197,
+    "expression": 15.401069518716577,
+    "fused": 16.236979166666668
+  },
+  "projections": {
+    "eligible_ffpp": {
+      "videos": 5820,
+      "worker_hours_by_container_frames": 93.68404645736095,
+      "wall_hours_by_container_frames": 25.74044059661217,
+      "storage_bytes_by_container_frames": 79690954
+    },
+    "all_primary_scenario": {
+      "videos": 7000,
+      "worker_hours_by_container_frames": 121.37748398195134,
+      "wall_hours_by_container_frames": 33.34943391483044,
+      "storage_bytes_by_container_frames": 103247969
+    }
+  }
+}

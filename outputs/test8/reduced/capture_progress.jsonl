@@ -1,0 +1,7 @@
+{"video_id": "archive:Deepfakes/108_052.mp4", "status": "captured", "archive": "88175ae26ba6169e2a2b1edc278ca11cf764541c12c2c886f28fa67e7a71fd64.npz", "frames": 300, "seconds": 72.6883171}
+{"video_id": "archive:Face2Face/108_052.mp4", "status": "captured", "archive": "dede9bfaa8f0b3d92666fc592676a3bebcdeb8934d3ea285802882353b56b234.npz", "frames": 323, "seconds": 78.04348529999999}
+{"video_id": "archive:Face2Face/052_108.mp4", "status": "captured", "archive": "bf8b9c676644aa08c6356ea878765d7b17003d74cdac9661e781ef3fc29caf06.npz", "frames": 300, "seconds": 99.62097540000002}
+{"video_id": "archive:Deepfakes/052_108.mp4", "status": "captured", "archive": "26c0764838428677cf331fe233d1947d478519c6006da49ecbfe4a487d8c7df3.npz", "frames": 323, "seconds": 102.8475277}
+{"video_id": "archive:FaceShifter/108_052.mp4", "status": "captured", "archive": "46aba303e6632a96fdf532e7c9a3e3145f8543cf34dd4403866a466cb7b3cb70.npz", "frames": 300, "seconds": 77.21810700000003}
+{"video_id": "archive:FaceSwap/108_052.mp4", "status": "captured", "archive": "82c41afcd9656e330d42c50b0e9233dc5624121647d2603b60737caa804ce52b.npz", "frames": 300, "seconds": 78.99350519999996}
+{"video_id": "archive:FaceShifter/052_108.mp4", "status": "captured", "archive": "0fb5317c5571bde13d9571860afc09b8ec668aa0f0d72805c2976fb1b23cf37a.npz", "frames": 323, "seconds": 113.50703729999992}

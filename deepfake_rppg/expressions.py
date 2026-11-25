@@ -30,6 +30,13 @@ MIN_WINDOW_SAMPLES = 3
 MAX_STEP_PERIODS = 1.5
 
 
+def blendshape_scores(categories):
+    return {
+        category.category_name: float(category.score) for category in categories
+        if category.category_name and np.isfinite(category.score)
+    }
+
+
 class ExpressionSampler(LandmarkSampler):
     def __init__(self, model_path):
         super().__init__(model_path, output_blendshapes=True)
@@ -37,10 +44,7 @@ class ExpressionSampler(LandmarkSampler):
     def sample(self, frame):
         if self.select_face(frame) is None:
             return self.face_status, {}
-        scores = {
-            category.category_name: float(category.score) for category in self.blendshapes
-            if category.category_name and np.isfinite(category.score)
-        }
+        scores = blendshape_scores(self.blendshapes)
         if not scores:
             return "blendshapes_unavailable", scores
         if any(name not in scores for name in SELECTED):

@@ -1,0 +1,11 @@
+category,control,variant,pairs,concentration_pairs,mean_concentration_change,mean_coverage_change,gained_passes,lost_passes
+real,skin_control,skin,48,48,-0.0006436850030771699,0.0,0,0
+manipulated,skin_control,skin,240,237,0.0001335409902055608,0.0,0,1
+real,rigid_control,rigid,48,48,-0.004854951408879368,0.0,1,0
+manipulated,rigid_control,rigid,240,237,0.0021825655389127127,0.0,0,1
+real,illumination_control,illumination,48,48,-0.00031463056140166565,0.0,0,0
+manipulated,illumination_control,illumination,240,237,-0.00017878437102520072,0.0,0,0
+real,forehead_only,adaptive_roi,16,16,0.0,0.0,0,0
+manipulated,forehead_only,adaptive_roi,80,79,0.0,0.0,0,0
+real,native_snap,bounded_interpolation,48,48,-0.006690716947481176,0.03463541666666667,0,1
+manipulated,native_snap,bounded_interpolation,240,237,-0.002001105799745993,0.018927083333333334,0,1

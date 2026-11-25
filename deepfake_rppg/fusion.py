@@ -54,7 +54,7 @@ def window_bounds(end, length, overlap):
 
 def time_slice(times, start, end):
     left, right = np.searchsorted(times, [start - TIME_EPSILON, end - TIME_EPSILON])
-    return slice(left, right)
+    return slice(int(left), int(right))
 
 
 def hybrid_sources(path, rgb):

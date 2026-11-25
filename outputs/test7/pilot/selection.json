@@ -1,0 +1,1152 @@
+[
+  {
+    "video_id": "remaining:original/061.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\061.mp4",
+    "relative_path": "original/061.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 337,
+    "fps": 25.0,
+    "duration": 13.48,
+    "width": 654,
+    "height": 480,
+    "resolution": "654x480",
+    "codec_fourcc": "h264",
+    "file_size": 724621,
+    "modified_ns": 1788265704000000000,
+    "sha256": "5ae61258e3cc868ebca0e7aba911a5bf190fd7c636443259ea5bd6d693b2f404",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "061"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:19d0449664e79bfca4491f3f3d28594f08a66d4cbe77a194724a4f7cda137ca7",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "3xDBNxpxXLQ"
+    ]
+  },
+  {
+    "video_id": "remaining:original/080.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\080.mp4",
+    "relative_path": "original/080.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 578650,
+    "modified_ns": 1788265704000000000,
+    "sha256": "19d0449664e79bfca4491f3f3d28594f08a66d4cbe77a194724a4f7cda137ca7",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "080"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:19d0449664e79bfca4491f3f3d28594f08a66d4cbe77a194724a4f7cda137ca7",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "65K8qOV_hgU"
+    ]
+  },
+  {
+    "video_id": "archive:Deepfakes/061_080.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Deepfakes\\061_080.mp4",
+    "relative_path": "Deepfakes/061_080.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Deepfakes",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 337,
+    "fps": 25.0,
+    "duration": 13.48,
+    "width": 654,
+    "height": 480,
+    "resolution": "654x480",
+    "codec_fourcc": "h264",
+    "file_size": 721546,
+    "modified_ns": 1788265348000000000,
+    "sha256": "7812c131a62bbe87d9ecafd3ae00f3e8a6492715fe8371400073d7641ae255a3",
+    "metadata_files": [
+      "Deepfakes.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "061",
+      "080"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:19d0449664e79bfca4491f3f3d28594f08a66d4cbe77a194724a4f7cda137ca7",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "3xDBNxpxXLQ",
+      "65K8qOV_hgU"
+    ]
+  },
+  {
+    "video_id": "archive:Deepfakes/080_061.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Deepfakes\\080_061.mp4",
+    "relative_path": "Deepfakes/080_061.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Deepfakes",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 593622,
+    "modified_ns": 1788265350000000000,
+    "sha256": "39d196681c7fc87cb4d2f60cdb75387eb690bf7465ba9e77c2b5f23ca852edeb",
+    "metadata_files": [
+      "Deepfakes.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "080",
+      "061"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:19d0449664e79bfca4491f3f3d28594f08a66d4cbe77a194724a4f7cda137ca7",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "3xDBNxpxXLQ",
+      "65K8qOV_hgU"
+    ]
+  },
+  {
+    "video_id": "archive:Face2Face/061_080.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Face2Face\\061_080.mp4",
+    "relative_path": "Face2Face/061_080.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Face2Face",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 1051770,
+    "modified_ns": 1788265452000000000,
+    "sha256": "acb2a346748232e47f635678051e5456cd81a4de1cef7ea6cf157f0d12cbea8d",
+    "metadata_files": [
+      "Face2Face.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "061",
+      "080"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:19d0449664e79bfca4491f3f3d28594f08a66d4cbe77a194724a4f7cda137ca7",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "3xDBNxpxXLQ",
+      "65K8qOV_hgU"
+    ]
+  },
+  {
+    "video_id": "archive:Face2Face/080_061.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Face2Face\\080_061.mp4",
+    "relative_path": "Face2Face/080_061.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Face2Face",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 337,
+    "fps": 25.0,
+    "duration": 13.48,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 435310,
+    "modified_ns": 1788265454000000000,
+    "sha256": "adaf1757ce3e34e322d69def408bd6f7d72f4637c15d3817c0da8da94ad1846b",
+    "metadata_files": [
+      "Face2Face.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "080",
+      "061"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:19d0449664e79bfca4491f3f3d28594f08a66d4cbe77a194724a4f7cda137ca7",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "3xDBNxpxXLQ",
+      "65K8qOV_hgU"
+    ]
+  },
+  {
+    "video_id": "remaining:original/929.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\929.mp4",
+    "relative_path": "original/929.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 462,
+    "fps": 30.0,
+    "duration": 15.4,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 527507,
+    "modified_ns": 1788265730000000000,
+    "sha256": "089831d56a45e2761cb1b2c796609f96a559cb3c678e62bc544434fe6feca431",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "929"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:089831d56a45e2761cb1b2c796609f96a559cb3c678e62bc544434fe6feca431",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "yXdpfHzOVac"
+    ]
+  },
+  {
+    "video_id": "remaining:original/962.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\962.mp4",
+    "relative_path": "original/962.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 460,
+    "fps": 30.0,
+    "duration": 15.333333333333334,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 556529,
+    "modified_ns": 1788265732000000000,
+    "sha256": "bc85893bdc49bb9b03df8094a73037f68a22af0dceafb25e94d6f3580c682714",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "962"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:089831d56a45e2761cb1b2c796609f96a559cb3c678e62bc544434fe6feca431",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "z1TT_iTuSfU"
+    ]
+  },
+  {
+    "video_id": "archive:Face2Face/929_962.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Face2Face\\929_962.mp4",
+    "relative_path": "Face2Face/929_962.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Face2Face",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 460,
+    "fps": 30.0,
+    "duration": 15.333333333333334,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 578894,
+    "modified_ns": 1788265544000000000,
+    "sha256": "d7c5d943a1841676a5c9feb8936822619946d603c66f533ea968403f7f4c0086",
+    "metadata_files": [
+      "Face2Face.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "929",
+      "962"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:089831d56a45e2761cb1b2c796609f96a559cb3c678e62bc544434fe6feca431",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "yXdpfHzOVac",
+      "z1TT_iTuSfU"
+    ]
+  },
+  {
+    "video_id": "archive:Face2Face/962_929.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Face2Face\\962_929.mp4",
+    "relative_path": "Face2Face/962_929.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Face2Face",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 462,
+    "fps": 30.0,
+    "duration": 15.4,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 576103,
+    "modified_ns": 1788265548000000000,
+    "sha256": "d6390b5d7a7cee2f8df5a7bcdfb9fffca21f75b53926a391482f65f18a827077",
+    "metadata_files": [
+      "Face2Face.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "962",
+      "929"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:089831d56a45e2761cb1b2c796609f96a559cb3c678e62bc544434fe6feca431",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "yXdpfHzOVac",
+      "z1TT_iTuSfU"
+    ]
+  },
+  {
+    "video_id": "archive:FaceShifter/929_962.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceShifter\\929_962.mp4",
+    "relative_path": "FaceShifter/929_962.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceShifter",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 462,
+    "fps": 30.0,
+    "duration": 15.4,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 520417,
+    "modified_ns": 1788265640000000000,
+    "sha256": "d7f0028071b277cc5adec78784dcd9a0584d144869867cc0b86fc8c1adbcc30b",
+    "metadata_files": [
+      "FaceShifter.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "929",
+      "962"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:089831d56a45e2761cb1b2c796609f96a559cb3c678e62bc544434fe6feca431",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "yXdpfHzOVac",
+      "z1TT_iTuSfU"
+    ]
+  },
+  {
+    "video_id": "archive:FaceShifter/962_929.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceShifter\\962_929.mp4",
+    "relative_path": "FaceShifter/962_929.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceShifter",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 460,
+    "fps": 30.0,
+    "duration": 15.333333333333334,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 523562,
+    "modified_ns": 1788265644000000000,
+    "sha256": "6d19de049adafe29511c5c991e487b884d701748538c9f12b04defcddb5bc42d",
+    "metadata_files": [
+      "FaceShifter.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "962",
+      "929"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:089831d56a45e2761cb1b2c796609f96a559cb3c678e62bc544434fe6feca431",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "yXdpfHzOVac",
+      "z1TT_iTuSfU"
+    ]
+  },
+  {
+    "video_id": "remaining:original/477.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\477.mp4",
+    "relative_path": "original/477.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 365,
+    "fps": 30.0,
+    "duration": 12.166666666666666,
+    "width": 1264,
+    "height": 720,
+    "resolution": "1264x720",
+    "codec_fourcc": "h264",
+    "file_size": 1568515,
+    "modified_ns": 1788265718000000000,
+    "sha256": "5def0d05707218a491f50efefad22179092d876b715d746588ac87b095316bb7",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "477"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:175cd71ed0c53931f2b72b37838ffb159c7e7f5ce499fc870583b6772beaf8d1",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "gJOiEJzYrX0"
+    ]
+  },
+  {
+    "video_id": "remaining:original/487.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\487.mp4",
+    "relative_path": "original/487.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 319,
+    "fps": 30.0,
+    "duration": 10.633333333333333,
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720",
+    "codec_fourcc": "h264",
+    "file_size": 1813433,
+    "modified_ns": 1788265718000000000,
+    "sha256": "30aba5e3a6e0172954d641b34f941379500af9d80befeb51c773643c05e254bc",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "487"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:175cd71ed0c53931f2b72b37838ffb159c7e7f5ce499fc870583b6772beaf8d1",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "gn8Ki_-15_Y"
+    ]
+  },
+  {
+    "video_id": "archive:FaceShifter/477_487.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceShifter\\477_487.mp4",
+    "relative_path": "FaceShifter/477_487.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceShifter",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 365,
+    "fps": 30.0,
+    "duration": 12.166666666666666,
+    "width": 1264,
+    "height": 720,
+    "resolution": "1264x720",
+    "codec_fourcc": "h264",
+    "file_size": 1525434,
+    "modified_ns": 1788265600000000000,
+    "sha256": "e54c1739be323cc7bcfe248741b8cdecccc1786af18ced66f75a91218fbde474",
+    "metadata_files": [
+      "FaceShifter.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "477",
+      "487"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:175cd71ed0c53931f2b72b37838ffb159c7e7f5ce499fc870583b6772beaf8d1",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "gJOiEJzYrX0",
+      "gn8Ki_-15_Y"
+    ]
+  },
+  {
+    "video_id": "archive:FaceShifter/487_477.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceShifter\\487_477.mp4",
+    "relative_path": "FaceShifter/487_477.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceShifter",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 319,
+    "fps": 30.0,
+    "duration": 10.633333333333333,
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720",
+    "codec_fourcc": "h264",
+    "file_size": 1724090,
+    "modified_ns": 1788265600000000000,
+    "sha256": "9276e61275f3eb20cabfd6b00f21a5664c55c3c74f7c8edcf2242b68c0ec1c3b",
+    "metadata_files": [
+      "FaceShifter.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "487",
+      "477"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:175cd71ed0c53931f2b72b37838ffb159c7e7f5ce499fc870583b6772beaf8d1",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "gJOiEJzYrX0",
+      "gn8Ki_-15_Y"
+    ]
+  },
+  {
+    "video_id": "archive:FaceSwap/477_487.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceSwap\\477_487.mp4",
+    "relative_path": "FaceSwap/477_487.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceSwap",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 319,
+    "fps": 30.0,
+    "duration": 10.633333333333333,
+    "width": 1264,
+    "height": 720,
+    "resolution": "1264x720",
+    "codec_fourcc": "h264",
+    "file_size": 1346024,
+    "modified_ns": 1788265662000000000,
+    "sha256": "2798cc21305f41354d0640924bb1cc437fffdba4e95182166480ff1811288c28",
+    "metadata_files": [
+      "FaceSwap.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "477",
+      "487"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:175cd71ed0c53931f2b72b37838ffb159c7e7f5ce499fc870583b6772beaf8d1",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "gJOiEJzYrX0",
+      "gn8Ki_-15_Y"
+    ]
+  },
+  {
+    "video_id": "archive:FaceSwap/487_477.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceSwap\\487_477.mp4",
+    "relative_path": "FaceSwap/487_477.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceSwap",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 319,
+    "fps": 30.0,
+    "duration": 10.633333333333333,
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720",
+    "codec_fourcc": "h264",
+    "file_size": 1867143,
+    "modified_ns": 1788265662000000000,
+    "sha256": "90b36de55367cb7459cb691d8d7b6e3baf8714c45a12cbf3418802ae83166ed2",
+    "metadata_files": [
+      "FaceSwap.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "487",
+      "477"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:175cd71ed0c53931f2b72b37838ffb159c7e7f5ce499fc870583b6772beaf8d1",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "gJOiEJzYrX0",
+      "gn8Ki_-15_Y"
+    ]
+  },
+  {
+    "video_id": "remaining:original/858.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\858.mp4",
+    "relative_path": "original/858.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 428141,
+    "modified_ns": 1788265728000000000,
+    "sha256": "f46782f684c39db16af31696568bb332d0f0da8d44dee6d2298dda305e12440e",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "858"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:3eddb04aee006a4a7045d05ea470203c60aa6924b14420766e097e6b294e4958",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "wpCZbl4WaDo"
+    ]
+  },
+  {
+    "video_id": "remaining:original/861.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\861.mp4",
+    "relative_path": "original/861.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 594,
+    "fps": 25.0,
+    "duration": 23.76,
+    "width": 654,
+    "height": 480,
+    "resolution": "654x480",
+    "codec_fourcc": "h264",
+    "file_size": 1839696,
+    "modified_ns": 1788265728000000000,
+    "sha256": "b88b5e7e609ce416e2e24dfc44c51c274eabdae4cf70a2a1109f9d86ab2547f9",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "861"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:3eddb04aee006a4a7045d05ea470203c60aa6924b14420766e097e6b294e4958",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "wtK0kYokaV8"
+    ]
+  },
+  {
+    "video_id": "archive:FaceSwap/858_861.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceSwap\\858_861.mp4",
+    "relative_path": "FaceSwap/858_861.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceSwap",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 516220,
+    "modified_ns": 1788265674000000000,
+    "sha256": "b999584eb8e89ca3bb99011a504269653f7777089578e8b895569cf47f73b8a3",
+    "metadata_files": [
+      "FaceSwap.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "858",
+      "861"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:3eddb04aee006a4a7045d05ea470203c60aa6924b14420766e097e6b294e4958",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "wpCZbl4WaDo",
+      "wtK0kYokaV8"
+    ]
+  },
+  {
+    "video_id": "archive:FaceSwap/861_858.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\FaceSwap\\861_858.mp4",
+    "relative_path": "FaceSwap/861_858.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "FaceSwap",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 654,
+    "height": 480,
+    "resolution": "654x480",
+    "codec_fourcc": "h264",
+    "file_size": 1569812,
+    "modified_ns": 1788265674000000000,
+    "sha256": "672facc2f1676a4839e51dcfc21683f2921bfaee4a2e9231988f0a95b1e694a6",
+    "metadata_files": [
+      "FaceSwap.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "861",
+      "858"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:3eddb04aee006a4a7045d05ea470203c60aa6924b14420766e097e6b294e4958",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "wpCZbl4WaDo",
+      "wtK0kYokaV8"
+    ]
+  },
+  {
+    "video_id": "remaining:NeuralTextures/858_861.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\NeuralTextures\\858_861.mp4",
+    "relative_path": "NeuralTextures/858_861.mp4",
+    "root_id": "remaining",
+    "label": 1,
+    "manipulation_method": "NeuralTextures",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 457342,
+    "modified_ns": 1788265698000000000,
+    "sha256": "88faf4b9609a638fa1f3f145764874627776df70d1086b612021363471c2665e",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "NeuralTextures.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "858",
+      "861"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:3eddb04aee006a4a7045d05ea470203c60aa6924b14420766e097e6b294e4958",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "wpCZbl4WaDo",
+      "wtK0kYokaV8"
+    ]
+  },
+  {
+    "video_id": "remaining:NeuralTextures/861_858.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\NeuralTextures\\861_858.mp4",
+    "relative_path": "NeuralTextures/861_858.mp4",
+    "root_id": "remaining",
+    "label": 1,
+    "manipulation_method": "NeuralTextures",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 483,
+    "fps": 25.0,
+    "duration": 19.32,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 1556134,
+    "modified_ns": 1788265698000000000,
+    "sha256": "b770b7f22ac28174db18dde05ae46be313746fc5aa884ab26b36bccc29a86d7d",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "NeuralTextures.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "861",
+      "858"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:3eddb04aee006a4a7045d05ea470203c60aa6924b14420766e097e6b294e4958",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "wpCZbl4WaDo",
+      "wtK0kYokaV8"
+    ]
+  },
+  {
+    "video_id": "remaining:original/206.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\206.mp4",
+    "relative_path": "original/206.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 714,
+    "fps": 25.0,
+    "duration": 28.56,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 743647,
+    "modified_ns": 1788265708000000000,
+    "sha256": "afb20cb66ea846c17216bd0cbfffb9135b686977d2c8bf0a38dbb5532ddc7a21",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "206"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:1424e6a568d8e48410c63bb4c8271dbba7c88ac0d08d7f5a04fddd092678ed38",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "FZV35miEdyI"
+    ]
+  },
+  {
+    "video_id": "remaining:original/221.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\original\\221.mp4",
+    "relative_path": "original/221.mp4",
+    "root_id": "remaining",
+    "label": 0,
+    "manipulation_method": "original",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 718,
+    "fps": 25.0,
+    "duration": 28.72,
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720",
+    "codec_fourcc": "h264",
+    "file_size": 2825107,
+    "modified_ns": 1788265710000000000,
+    "sha256": "2d6b46bd818eb5253d52138e678234160202eca5dd883fb7d9d32a16a7c92de1",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "original.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "221"
+    ],
+    "source_relationship": "matching_original_filenames",
+    "group_id": "sha256:1424e6a568d8e48410c63bb4c8271dbba7c88ac0d08d7f5a04fddd092678ed38",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "GZtz6sgFJUE"
+    ]
+  },
+  {
+    "video_id": "remaining:NeuralTextures/206_221.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\NeuralTextures\\206_221.mp4",
+    "relative_path": "NeuralTextures/206_221.mp4",
+    "root_id": "remaining",
+    "label": 1,
+    "manipulation_method": "NeuralTextures",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 714,
+    "fps": 25.0,
+    "duration": 28.56,
+    "width": 640,
+    "height": 480,
+    "resolution": "640x480",
+    "codec_fourcc": "h264",
+    "file_size": 708180,
+    "modified_ns": 1788265682000000000,
+    "sha256": "e811232b062d308f0657a7ebdd95de9109a67ec106e625f475ad554a97cf3282",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "NeuralTextures.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "206",
+      "221"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:1424e6a568d8e48410c63bb4c8271dbba7c88ac0d08d7f5a04fddd092678ed38",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "FZV35miEdyI",
+      "GZtz6sgFJUE"
+    ]
+  },
+  {
+    "video_id": "remaining:NeuralTextures/221_206.mp4",
+    "absolute_path": "D:\\deepfake data (rem)\\NeuralTextures\\221_206.mp4",
+    "relative_path": "NeuralTextures/221_206.mp4",
+    "root_id": "remaining",
+    "label": 1,
+    "manipulation_method": "NeuralTextures",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 714,
+    "fps": 25.0,
+    "duration": 28.56,
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720",
+    "codec_fourcc": "h264",
+    "file_size": 2775260,
+    "modified_ns": 1788265682000000000,
+    "sha256": "9dda4e941677acbf554bf4a950161263c3ab02bacfe374abd67f02dc15bbbd9d",
+    "metadata_files": [
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv",
+      "NeuralTextures.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "221",
+      "206"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:1424e6a568d8e48410c63bb4c8271dbba7c88ac0d08d7f5a04fddd092678ed38",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "FZV35miEdyI",
+      "GZtz6sgFJUE"
+    ]
+  },
+  {
+    "video_id": "archive:Deepfakes/206_221.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Deepfakes\\206_221.mp4",
+    "relative_path": "Deepfakes/206_221.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Deepfakes",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 714,
+    "fps": 25.0,
+    "duration": 28.56,
+    "width": 656,
+    "height": 480,
+    "resolution": "656x480",
+    "codec_fourcc": "h264",
+    "file_size": 751297,
+    "modified_ns": 1788265364000000000,
+    "sha256": "f60eda6a5b4c8e781192f6c4a5f42338a59d07771eb1d4e8eed8cb3c7e19dfac",
+    "metadata_files": [
+      "Deepfakes.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "206",
+      "221"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:1424e6a568d8e48410c63bb4c8271dbba7c88ac0d08d7f5a04fddd092678ed38",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "FZV35miEdyI",
+      "GZtz6sgFJUE"
+    ]
+  },
+  {
+    "video_id": "archive:Deepfakes/221_206.mp4",
+    "absolute_path": "F:\\FaceForensics++\\archive\\FaceForensics++_C23\\Deepfakes\\221_206.mp4",
+    "relative_path": "Deepfakes/221_206.mp4",
+    "root_id": "archive",
+    "label": 1,
+    "manipulation_method": "Deepfakes",
+    "dataset_source": "FaceForensics++ (nominal C23)",
+    "excluded": false,
+    "flags": [],
+    "frame_count": 718,
+    "fps": 25.0,
+    "duration": 28.72,
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720",
+    "codec_fourcc": "h264",
+    "file_size": 2812730,
+    "modified_ns": 1788265364000000000,
+    "sha256": "1424e6a568d8e48410c63bb4c8271dbba7c88ac0d08d7f5a04fddd092678ed38",
+    "metadata_files": [
+      "Deepfakes.csv",
+      "FF++_Metadata.csv",
+      "FF++_Metadata_Shuffled.csv"
+    ],
+    "metadata_mismatches": {},
+    "source_video_ids": [
+      "221",
+      "206"
+    ],
+    "source_relationship": "official_pair",
+    "group_id": "sha256:1424e6a568d8e48410c63bb4c8271dbba7c88ac0d08d7f5a04fddd092678ed38",
+    "partition": "train",
+    "validation_status": "audited",
+    "original_upload_ids": [
+      "FZV35miEdyI",
+      "GZtz6sgFJUE"
+    ]
+  }
+]

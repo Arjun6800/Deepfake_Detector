@@ -1,0 +1,383 @@
+{
+  "counts": {
+    "DeepFakeDetection": 1000,
+    "Deepfakes": 1000,
+    "Face2Face": 1000,
+    "FaceShifter": 1000,
+    "FaceSwap": 1000,
+    "NeuralTextures": 1000,
+    "original": 1000
+  },
+  "labels": {
+    "FAKE": 6000,
+    "REAL": 1000
+  },
+  "by_method": {
+    "original": {
+      "resolution": {
+        "640x480": 257,
+        "1280x720": 325,
+        "720x480": 27,
+        "600x480": 48,
+        "654x480": 20,
+        "1440x1080": 3,
+        "848x480": 3,
+        "586x480": 1,
+        "1920x1080": 123,
+        "854x480": 98,
+        "960x720": 8,
+        "656x480": 66,
+        "658x480": 2,
+        "852x480": 1,
+        "1264x720": 2,
+        "644x480": 1,
+        "800x480": 1,
+        "454x480": 1,
+        "272x480": 1,
+        "598x480": 2,
+        "1280x718": 1,
+        "636x480": 1,
+        "642x480": 2,
+        "602x480": 1,
+        "712x480": 1,
+        "1274x720": 1,
+        "810x480": 1,
+        "632x480": 1,
+        "978x720": 1
+      },
+      "codec": {
+        "h264": 1000
+      },
+      "flags": {
+        "cross_split_component": 30
+      }
+    },
+    "Deepfakes": {
+      "resolution": {
+        "640x480": 257,
+        "1280x720": 325,
+        "720x480": 27,
+        "600x480": 48,
+        "654x480": 20,
+        "1440x1080": 3,
+        "848x480": 3,
+        "586x480": 1,
+        "1920x1080": 123,
+        "854x480": 98,
+        "960x720": 8,
+        "656x480": 66,
+        "658x480": 2,
+        "852x480": 1,
+        "1264x720": 2,
+        "644x480": 1,
+        "800x480": 1,
+        "454x480": 1,
+        "272x480": 1,
+        "598x480": 2,
+        "1280x718": 1,
+        "636x480": 1,
+        "642x480": 2,
+        "602x480": 1,
+        "712x480": 1,
+        "1274x720": 1,
+        "810x480": 1,
+        "632x480": 1,
+        "978x720": 1
+      },
+      "codec": {
+        "h264": 1000
+      },
+      "flags": {
+        "cross_split_component": 30
+      }
+    },
+    "Face2Face": {
+      "resolution": {
+        "640x480": 348,
+        "1280x720": 325,
+        "704x480": 28,
+        "576x480": 52,
+        "1440x1080": 3,
+        "832x480": 102,
+        "1920x1080": 123,
+        "960x720": 9,
+        "1248x720": 3,
+        "800x480": 2,
+        "448x480": 1,
+        "256x480": 1,
+        "1280x718": 1,
+        "608x480": 2
+      },
+      "codec": {
+        "h264": 1000
+      },
+      "flags": {
+        "cross_split_component": 30
+      }
+    },
+    "FaceShifter": {
+      "resolution": {
+        "640x480": 257,
+        "1280x720": 325,
+        "720x480": 27,
+        "600x480": 48,
+        "654x480": 20,
+        "1440x1080": 3,
+        "848x480": 3,
+        "586x480": 1,
+        "1920x1080": 123,
+        "854x480": 98,
+        "960x720": 8,
+        "656x480": 66,
+        "658x480": 2,
+        "852x480": 1,
+        "1264x720": 2,
+        "644x480": 1,
+        "800x480": 1,
+        "454x480": 1,
+        "272x480": 1,
+        "598x480": 2,
+        "1280x718": 1,
+        "636x480": 1,
+        "642x480": 2,
+        "602x480": 1,
+        "712x480": 1,
+        "1274x720": 1,
+        "810x480": 1,
+        "632x480": 1,
+        "978x720": 1
+      },
+      "codec": {
+        "h264": 1000
+      },
+      "flags": {
+        "cross_split_component": 30
+      }
+    },
+    "FaceSwap": {
+      "resolution": {
+        "640x480": 257,
+        "1280x720": 325,
+        "720x480": 27,
+        "600x480": 48,
+        "654x480": 20,
+        "1440x1080": 3,
+        "848x480": 3,
+        "586x480": 1,
+        "1920x1080": 123,
+        "854x480": 98,
+        "960x720": 8,
+        "656x480": 66,
+        "658x480": 2,
+        "852x480": 1,
+        "1264x720": 2,
+        "644x480": 1,
+        "800x480": 1,
+        "454x480": 1,
+        "272x480": 1,
+        "598x480": 2,
+        "1280x718": 1,
+        "636x480": 1,
+        "642x480": 2,
+        "602x480": 1,
+        "712x480": 1,
+        "1274x720": 1,
+        "810x480": 1,
+        "632x480": 1,
+        "978x720": 1
+      },
+      "codec": {
+        "h264": 1000
+      },
+      "flags": {
+        "cross_split_component": 30
+      }
+    },
+    "NeuralTextures": {
+      "resolution": {
+        "640x480": 348,
+        "1280x720": 325,
+        "704x480": 28,
+        "576x480": 52,
+        "1440x1080": 3,
+        "832x480": 102,
+        "1920x1080": 123,
+        "960x720": 9,
+        "1248x720": 3,
+        "800x480": 2,
+        "448x480": 1,
+        "256x480": 1,
+        "1280x718": 1,
+        "608x480": 2
+      },
+      "codec": {
+        "h264": 1000
+      },
+      "flags": {
+        "cross_split_component": 30
+      }
+    },
+    "DeepFakeDetection": {
+      "resolution": {
+        "1920x1080": 1000
+      },
+      "codec": {
+        "h264": 1000
+      },
+      "flags": {}
+    }
+  },
+  "partitions": {
+    "holdout": 1180,
+    "test": 816,
+    "train": 4236,
+    "val": 768
+  },
+  "status": {
+    "audited": 6820,
+    "review": 180
+  },
+  "metadata": {
+    "DeepFakeDetection.csv": {
+      "rows": 1000,
+      "duplicate_entries": {}
+    },
+    "Deepfakes.csv": {
+      "rows": 1000,
+      "duplicate_entries": {}
+    },
+    "Face2Face.csv": {
+      "rows": 1000,
+      "duplicate_entries": {}
+    },
+    "FaceShifter.csv": {
+      "rows": 1000,
+      "duplicate_entries": {}
+    },
+    "FaceSwap.csv": {
+      "rows": 1000,
+      "duplicate_entries": {}
+    },
+    "FF++_Metadata.csv": {
+      "rows": 7000,
+      "duplicate_entries": {}
+    },
+    "FF++_Metadata_Shuffled.csv": {
+      "rows": 7000,
+      "duplicate_entries": {}
+    },
+    "Mean_Data.csv": {
+      "summary_rows": [
+        {
+          "": "DeepFakeDetection",
+          "Frame Count Mean": "733.791",
+          "Width Mean": "1920.0",
+          "Height Mean": "1080.0",
+          "File Size(MB) Mean": "6.6376100000000005"
+        },
+        {
+          "": "Deepfakes",
+          "Frame Count Mean": "509.128",
+          "Width Mean": "1036.348",
+          "Height Mean": "636.718",
+          "File Size(MB) Mean": "1.90042"
+        },
+        {
+          "": "Face2Face",
+          "Frame Count Mean": "509.128",
+          "Width Mean": "1030.912",
+          "Height Mean": "636.718",
+          "File Size(MB) Mean": "1.8566599999999998"
+        },
+        {
+          "": "FaceShifter",
+          "Frame Count Mean": "509.128",
+          "Width Mean": "1036.348",
+          "Height Mean": "636.718",
+          "File Size(MB) Mean": "1.82796"
+        },
+        {
+          "": "FaceSwap",
+          "Frame Count Mean": "406.14",
+          "Width Mean": "1036.348",
+          "Height Mean": "636.718",
+          "File Size(MB) Mean": "1.56358"
+        },
+        {
+          "": "NeuralTextures",
+          "Frame Count Mean": "406.137",
+          "Width Mean": "1030.912",
+          "Height Mean": "636.718",
+          "File Size(MB) Mean": "1.45529"
+        },
+        {
+          "": "Original",
+          "Frame Count Mean": "509.128",
+          "Width Mean": "1036.348",
+          "Height Mean": "636.718",
+          "File Size(MB) Mean": "1.84677"
+        }
+      ]
+    },
+    "NeuralTextures.csv": {
+      "rows": 1000,
+      "duplicate_entries": {}
+    },
+    "original.csv": {
+      "rows": 1000,
+      "duplicate_entries": {}
+    }
+  },
+  "missing_metadata_paths": {},
+  "unexpected_paths": [],
+  "other_files": [],
+  "missing_directories": [
+    "D:\\deepfake data (rem)\\original\\NeuralTextures"
+  ],
+  "duplicate_hashes": {},
+  "official_source_ids": {
+    "train": 720,
+    "val": 140,
+    "test": 140
+  },
+  "official_directed_pairs": 1000,
+  "official_split_sha256": {
+    "train": "e59386911255e6fb0a79a7808ec2210536b8c0474268342694c4bca766d1b347",
+    "val": "b48cc511f66938e05356aaa9c67e150b1e3638c355db3d745225b0022884b36e",
+    "test": "886f5a0da623c25820692e0d8dc33d197ddb1db527a7f1cfcb9bcbca60fe4f40"
+  },
+  "excluded_count": 404,
+  "original_upload_count": 977,
+  "original_upload_source_count": 1000,
+  "original_upload_cross_splits": {
+    "nUNnFudF2pA": [
+      "train",
+      "val"
+    ],
+    "pGmDKODT6V4": [
+      "train",
+      "val"
+    ],
+    "tR7z_H1qPMc": [
+      "test",
+      "train"
+    ],
+    "wERnQNuwQbM": [
+      "train",
+      "val"
+    ],
+    "xG9J__APvnY": [
+      "train",
+      "val"
+    ],
+    "yvf0HOswcPk": [
+      "test",
+      "train"
+    ],
+    "zPdvu-SUnbg": [
+      "train",
+      "val"
+    ]
+  },
+  "conversion_sha256": "2d5e03a3d4bd47ef0e8c84881f595ca1e1ba191928fa50dcd30a470a7173612f"
+}

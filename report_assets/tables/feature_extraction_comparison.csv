@@ -1,0 +1,38 @@
+﻿phase,feature_set,dimensions,dimension_definition,source
+4.7,expression187,187,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,fusion250,250,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,fusion256,256,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,fusion276,276,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,green89,89,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,majority,0,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,missingness_probe,276,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,reliability26,26,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,rppg69,69,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.7,rppg_signal63,63,Requested model inputs,outputs/test10/ablation_comparison.csv
+4.8,Expanded fusion,276,Window schema,outputs/test11/expanded_feature_schema.json
+4.9,Expression,187,"Window fields, checked against Phase 4.11A original blocks",outputs/test13/IMPLEMENTATION_AUDIT.md
+4.9,Original POS temporal,12,"Window fields, checked against Phase 4.11A original blocks",outputs/test13/IMPLEMENTATION_AUDIT.md
+4.9,Original POS spectral,28,"Window fields, checked against Phase 4.11A original blocks",outputs/test13/IMPLEMENTATION_AUDIT.md
+4.9,Selective fusion,227,"Window fields, checked against Phase 4.11A original blocks",outputs/test13/IMPLEMENTATION_AUDIT.md
+4.10,temporal,15,Declared fields,outputs/test13/feature_schema.json
+4.10,spectral,9,Declared fields,outputs/test13/feature_schema.json
+4.10,cross,7,Declared fields,outputs/test13/feature_schema.json
+4.10,missingness,2,Declared fields,outputs/test13/feature_schema.json
+4.10,nuisance,3,Declared fields,outputs/test13/feature_schema.json
+4.10,motion_only,1,Declared fields,outputs/test13/feature_schema.json
+4.11A,expression,187,"Declared fields, including video-only fields where defined",outputs/test14/feature_schema.json
+4.11A,original_rppg,69,"Declared fields, including video-only fields where defined",outputs/test14/feature_schema.json
+4.11A,original_temporal,12,"Declared fields, including video-only fields where defined",outputs/test14/feature_schema.json
+4.11A,original_spectral,28,"Declared fields, including video-only fields where defined",outputs/test14/feature_schema.json
+4.11A,enhanced_temporal,15,"Declared fields, including video-only fields where defined",outputs/test14/feature_schema.json
+4.11A,expression_only,187,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,original_rppg_only,69,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,phase49_selective,227,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,expression_enhanced_temporal,202,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,expression_enhanced_original_spectral,230,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,expression_original_enhanced_temporal,214,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,hybrid,242,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,enhanced_temporal_original_spectral,43,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,hybrid_redundancy,242,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,hybrid_modality_regularization,242,Before aggregation and fold-local preprocessing,outputs/test14/feature_schema.json
+4.11A,Hybrid mean + SD,1075,Retained columns after fold-local preprocessing in all five folds,outputs/test14/best_model_config.json

@@ -120,8 +120,8 @@ def choose_fallback(primary, fallback):
 class ReliabilitySampler(LandmarkSampler):
     """Evaluate all modes with one decoded frame and one landmark inference."""
 
-    def __init__(self, model_path):
-        super().__init__(model_path)
+    def __init__(self, model_path, *, output_blendshapes=False):
+        super().__init__(model_path, output_blendshapes=output_blendshapes)
         self.stabilizer = LandmarkStabilizer()
 
     def sample_methods(self, frame):

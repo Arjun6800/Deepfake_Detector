@@ -1,0 +1,44 @@
+[
+  {
+    "video_id": "remaining:original/242.mp4",
+    "status": "captured",
+    "archive": "9dd4c61bb57c5c3895574a950cb380a85d760a8b0ce452b29ef8f352db46eb72.npz",
+    "frames": 331,
+    "seconds": 55.87704499999995
+  },
+  {
+    "video_id": "archive:Deepfakes/242_182.mp4",
+    "status": "captured",
+    "archive": "f150f15f47ae25530df850bbd67d01888756fab3e6d4657785d3659ed5be50b9.npz",
+    "frames": 331,
+    "seconds": 56.028607100000045
+  },
+  {
+    "video_id": "archive:Face2Face/242_182.mp4",
+    "status": "captured",
+    "archive": "da8eda44ac2170c32fd74e4ac7e54180868d60d83240a51cb1534301811d05f6.npz",
+    "frames": 620,
+    "seconds": 109.58598610000013
+  },
+  {
+    "video_id": "archive:FaceShifter/242_182.mp4",
+    "status": "captured",
+    "archive": "c7e1351d736eac3b960306d07c69d48f65a8618317a53c7c1f61ccad4bd90425.npz",
+    "frames": 331,
+    "seconds": 59.12176700000009
+  },
+  {
+    "video_id": "archive:FaceSwap/242_182.mp4",
+    "status": "captured",
+    "archive": "2a88e7d4da9048f9819aec017c92353c6d84d9c17a9e3c14dc626d2df8dafb43.npz",
+    "frames": 331,
+    "seconds": 55.731368500000144
+  },
+  {
+    "video_id": "remaining:NeuralTextures/242_182.mp4",
+    "status": "captured",
+    "archive": "215242eb91e2938f4b573608efcfd0b003ba7e75eb1d8f558d016675a1778019.npz",
+    "frames": 331,
+    "seconds": 51.85563389999993
+  }
+]

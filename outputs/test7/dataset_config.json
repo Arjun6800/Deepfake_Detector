@@ -1,0 +1,18 @@
+{
+  "roots": {
+    "archive": "F:/FaceForensics++/archive/FaceForensics++_C23",
+    "remaining": "D:/deepfake data (rem)"
+  },
+  "metadata": "F:/FaceForensics++/archive/FaceForensics++_C23/csv",
+  "splits": "outputs/test7/splits",
+  "subsets": [
+    {"root": "archive", "folder": "Deepfakes", "method": "Deepfakes"},
+    {"root": "archive", "folder": "Face2Face", "method": "Face2Face"},
+    {"root": "archive", "folder": "FaceShifter", "method": "FaceShifter"},
+    {"root": "archive", "folder": "FaceSwap", "method": "FaceSwap"},
+    {"root": "archive", "folder": "DeepFakeDetection", "method": "DeepFakeDetection"},
+    {"root": "remaining", "folder": "original", "method": "original"},
+    {"root": "remaining", "folder": "NeuralTextures", "method": "NeuralTextures"},
+    {"root": "remaining", "folder": "original/NeuralTextures", "method": "NeuralTextures", "exclude": true}
+  ]
+}
